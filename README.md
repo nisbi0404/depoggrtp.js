@@ -1,2 +1,0 @@
-# depoggrtp.js
-RTP DEPOGG
